@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://via.placeholder.com/800x200/ffffff/000000?text=MEET+-+MERN+Stack+%26+Next.js+Developer" alt="Banner" width="100%" />
+    <img src="1781325960620.png" alt="Banner" width="100%" />
   </a>
 </p>
 
